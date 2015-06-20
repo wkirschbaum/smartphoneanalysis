@@ -1,2 +1,2 @@
-# smartphoneanalysis
-collect and clean smartphone data for analysis
+# Smartphone Data Analysis
+Collect and clean smartphone data for analysis
