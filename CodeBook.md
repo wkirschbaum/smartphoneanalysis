@@ -17,6 +17,9 @@
 ###### Measurement average per feature.
     prefix 't' to denote time domain signals
     prefix 'f' to donate frequency domain signals
+    
+    Jerk Jerk signal
+    Mag Magnitude signal
 
     .mean mean value
     .std standard deviation value
